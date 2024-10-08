@@ -17,8 +17,13 @@ The project provides a terminal interface that runs the model at specified time 
 
 ## Future Steps
 -Camera parallel to the curb case, implement an OBB yolov8 model instead to obtain 4 corners of bounding box. Utilize dist. formula for curb space calculation. 
+
 -Varying perspective case, where the curb seems like its minimizing to a certain point, make use of 2 relative objects of the same height for calibration. Assume linear perspective and apply a linear transformation to length calculation. 
+
 -Expand dataset. 
+
 -Retrain model across varying initializations/epochs. 
+
 -Expand use to cases from neighborhood curbs to parking structures/lots. 
+
 -Create API endpoints and establish a cleaner front facing user interface. 
