@@ -13,6 +13,9 @@ Trained Yolov8's object detection CV model on a custom dataset containing multip
 
 ## Usage
 The project provides a terminal interface that runs the model at specified time intervals to detect open parking spaces. Notifications sent through text.
+```
+python3 interface.py
+```
 
 
 ## Future Steps
